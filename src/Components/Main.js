@@ -201,6 +201,7 @@ that factor in unique demands for accessibility, reachability and security</p>
            
            <section className="resume-section" id="Projects">
                <div className="resume-section-content">
+<h2 className="mb-5">Projects</h2>
                  <h3 className="mb-0"> <a target="_blank" href="https://quiz-man-ia.000webhostapp.com/">Quiz App</a></h3>
                     <div className="subheading mb-3">
                         • Build a Web page that allows students/users to Sign-up with their emails and login to attend a quiz.
